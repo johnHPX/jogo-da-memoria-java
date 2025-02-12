@@ -16,4 +16,3 @@ Criado na estrutura Maven. Essa é a estrutura padrão que utilizo em meus proje
 ## Minha opinião
 Quando terminar o trabalho, eu atualizo este tópico.ada a Objetos 2 da professora Bonny Kathy. O trabalho envolve o uso de threads, o segundo assunto que apredemos na disciplina. O trabalho visa colocar em prática o que aprendemos na segunda parte da disciplina.
 
-## PDF com as instruções
