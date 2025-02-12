@@ -5,9 +5,7 @@ Trabalho para compor a segunda nota da disciplina de Programação Orientada a O
 
 ## PDF com as instruções
 
-[//]: # ([📄 Visualizar o documento]&#40;https://drive.google.com/file/d/1H0AScvLOBQa1he3OOxHLXH0OozXW-N0M/view&#41;)
-<iframe src="https://drive.google.com/file/d/1H0AScvLOBQa1he3OOxHLXH0OozXW-N0M/view" width="100%" height="600px"></iframe>
-
+[📄 Visualizar o documento](https://drive.google.com/file/d/1H0AScvLOBQa1he3OOxHLXH0OozXW-N0M/view)
 
 ## Como foi feito
 Usando a linguagem Java e sua poderososa orientação a objetos, mais a biblioteca do JDK para manipulação de threads e a biblioteca Swing.
