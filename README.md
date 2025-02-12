@@ -4,7 +4,9 @@
 Trabalho para compor a segunda nota da disciplina de Programação Orientada a Objetos 2 da professora Bonny Kathy. O trabalho envolve o uso de threads, o segundo assunto que apredemos na disciplina. O trabalho visa colocar em prática o que aprendemos na segunda parte da disciplina.
 
 ## PDF com as instruções
-<iframe src="https://drive.google.com/file/d/1C4CLj_QyO2vGawhcbEZKkvXK_u6paVPu/preview" width="100%" height="600px"></iframe>
+
+[//]: # ([📄 Visualizar o documento]&#40;https://drive.google.com/file/d/1H0AScvLOBQa1he3OOxHLXH0OozXW-N0M/view&#41;)
+<iframe src="https://drive.google.com/file/d/1H0AScvLOBQa1he3OOxHLXH0OozXW-N0M/view" width="100%" height="600px"></iframe>
 
 
 ## Como foi feito
